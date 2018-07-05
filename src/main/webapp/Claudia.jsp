@@ -7,8 +7,9 @@
 <title>Claudia's Dogs</title>
 </head>
 <body>
-<h1>Claudia Dogs</h1>
-<img alt="Dog" src="http://vetmedclinic.net/wp-content/uploads/2018/02/293884104_5520886265001_5520879634001-th.jpg">
+<h1>Claudia Love Dogs</h1>
+<img alt="Dog" src="http://vetmedclinic.net/wp-content/uploads/2018/02/293884104_5520886265001_5520879634001-th.jpg" 
+height="360" width="640">
 
 </body>
 </html>
