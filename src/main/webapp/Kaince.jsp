@@ -10,8 +10,8 @@
 <h1>Kaince Love Cars</h1>
 <img alt="Dog" src="./img/Bugatti.jpg" 
 height="360" width="640">
-<img alt="Dog" src="./img/Kaince-puppy.jpg" 
-height="360" width="640">
+<img alt="Dog" src="./img/Kaince-Puppy.jpg" 
+height="360" width="360">
 <img alt="Dog" src="./img/McQueen.jpg" 
 height="360" width="640">
 <img alt="Dog" src="./img/Mustang.png" 
